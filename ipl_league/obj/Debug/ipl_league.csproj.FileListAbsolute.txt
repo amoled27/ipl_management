@@ -1,0 +1,16 @@
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\bin\Debug\ipl_league.exe.config
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\bin\Debug\ipl_league.exe
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\bin\Debug\ipl_league.pdb
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\bin\Debug\Oracle.DataAccess.dll
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.admin.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.delete.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.display.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.match.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.ticket.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.update.resources
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.exe
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.pdb
+c:\users\student\documents\visual studio 2013\Projects\ipl_league\ipl_league\obj\Debug\ipl_league.bookings.resources
